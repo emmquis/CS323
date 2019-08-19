@@ -1,6 +1,5 @@
 /*
-Emmanuel Silan
-CS323-35
+CS323-
 Project 1 C++
 */
 
