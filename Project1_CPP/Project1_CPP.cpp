@@ -1,6 +1,6 @@
 /*
-CS323-
 Project 1 C++
+Linked List Implementation of Stack and Queue
 */
 
 #include<iostream>
