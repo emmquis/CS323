@@ -1,6 +1,5 @@
-/*
-Project 2: Radix Sort
-*/
+//Project 2: Radix Sort
+
 #include<iostream>
 #include<fstream>
 #include<cmath>
