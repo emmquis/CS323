@@ -1,6 +1,4 @@
 /*
-Emmanuel Silan
-CSC 323-35
 Project 2: Radix Sort
 */
 #include<iostream>
