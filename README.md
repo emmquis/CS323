@@ -1,4 +1,4 @@
-# CS323
+# School Projects
 
 Projects for Design and Analysis of Algorithms in C++ and Java
 
